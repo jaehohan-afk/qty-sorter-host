@@ -6,6 +6,8 @@ The Qty Sorter Chrome Extension does not collect, store, transmit, or share any 
 
 All processing occurs locally on your device. When you paste defect lines into the extension, the text is processed by a native helper program (`jay_host_qtysorter.exe`) installed on your computer. No data is sent to the cloud, external servers, or third parties.
 
+The extension stores non-sensitive preferences locally via chrome.storage (e.g., last input). No data is transmitted off device.
+
 **Information Collected:** None  
 **Data Sharing:** None  
 **Analytics or Tracking:** None  
